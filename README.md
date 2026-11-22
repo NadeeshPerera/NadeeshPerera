@@ -72,4 +72,4 @@
 
 ---
 
-<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University · 📫 Happy to chat about frontend roles in world</p>
+<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University </p>
