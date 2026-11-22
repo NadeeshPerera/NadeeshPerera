@@ -17,7 +17,7 @@
 - 🏗️ I've moved **legacy ERPs (OpenROAD/Ingres) to React + .NET Core**
 - ⚡ I cut initial load time by **~35%** with code splitting and lazy loading
 - 🧑‍🏫 I mentor interns and junior developers, and take part in code reviews and sprint planning
-- 🌏 **Looking for Frontend / Full-Stack Engineer roles in Singapore**
+- 🌏 **Looking for Frontend / Full-Stack Engineer roles **
 
 ---
 
