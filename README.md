@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nadeesh-perera-984461214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nadeeeshperera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20roles-Singapore-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20roles-world-2ea44f?style=for-the-badge" />
 </p>
 
 ---
