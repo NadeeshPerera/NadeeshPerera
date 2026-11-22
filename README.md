@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nadeesh-perera-984461214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nadeeeshperera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20roles-world-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20roles-Singapore-2ea44f?style=for-the-badge" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🏗️ I've moved **legacy ERPs (OpenROAD/Ingres) to React + .NET Core**
 - ⚡ I cut initial load time by **~35%** with code splitting and lazy loading
 - 🧑‍🏫 I mentor interns and junior developers, and take part in code reviews and sprint planning
-- 🌏 **Looking for Frontend / Full-Stack Engineer roles in world**
+- 🌏 **Looking for Frontend / Full-Stack Engineer roles in Singapore**
 
 ---
 
@@ -66,10 +66,11 @@
 
 ### 📌 Featured projects
 
+- **[harbourline-banking-dashboard](https://github.com/NadeeshPerera/harbourline-banking-dashboard)**: a full-stack retail banking dashboard. It has accounts, statements with URL-synced filters, spending analytics, and idempotent transfers with daily limits (Next.js, TypeScript, TanStack Query, React Hook Form + Zod, ASP.NET Core 8, EF Core, 47 tests + CI). **[▶ Live demo](https://harbourline-banking-dashboard.vercel.app)**
 - **[fleet-tracker-dashboard](https://github.com/NadeeshPerera/fleet-tracker-dashboard)**: a real-time fleet tracking and dispatch dashboard set in Singapore. It has a live Leaflet map, push updates with reconnect and backoff, truck allocation and PDF invoices (Next.js, TypeScript, Redux Toolkit, Tailwind, 35 tests + CI). **[▶ Live demo](https://nadeesh-fleet-tracker.vercel.app)**
 - **[falcons-employee-management-react-app](https://github.com/NadeeshPerera/falcons-employee-management-react-app)**: the React frontend for a full-stack employee management system (React, Tailwind, MUI, DevExtreme)
 - **[falcons-employee-management-web-api](https://github.com/NadeeshPerera/falcons-employee-management-web-api)**: the backend for the same system (ASP.NET Core Web API, C#, SQL Server)
 
 ---
 
-<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University </p>
+<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University · 📫 Happy to chat about frontend roles in Singapore</p>
