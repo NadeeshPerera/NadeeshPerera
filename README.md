@@ -72,13 +72,4 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NadeeshPerera&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeeshPerera&layout=compact&hide_border=true" />
-</p>
-
----
-
 <p align="center">🎓 BSc (Hons) Data Science, SLTC Research University · 📫 Happy to chat about frontend roles in Singapore</p>
