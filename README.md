@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nadeesh-perera-984461214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nadeeeshperera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20roles-Singapore-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20roles-world-2ea44f?style=for-the-badge" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🏗️ I've moved **legacy ERPs (OpenROAD/Ingres) to React + .NET Core**
 - ⚡ I cut initial load time by **~35%** with code splitting and lazy loading
 - 🧑‍🏫 I mentor interns and junior developers, and take part in code reviews and sprint planning
-- 🌏 **Looking for Frontend / Full-Stack Engineer roles in Singapore**
+- 🌏 **Looking for Frontend / Full-Stack Engineer roles in world**
 
 ---
 
@@ -72,4 +72,4 @@
 
 ---
 
-<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University · 📫 Happy to chat about frontend roles in Singapore</p>
+<p align="center">🎓 BSc (Hons) Data Science, SLTC Research University · 📫 Happy to chat about frontend roles in world</p>
